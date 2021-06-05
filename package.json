@@ -174,7 +174,7 @@
 		"bad-words": "^3.0.3",
 		"bcrypt": "^5.0.0",
 		"blockstack": "19.3.0",
-		"body-parser": "1.18.3",
+		"body-parser": "1.19.0",
 		"bson": "^4.1.0",
 		"bugsnag": "^2.4.3",
 		"bunyan": "^1.8.14",
